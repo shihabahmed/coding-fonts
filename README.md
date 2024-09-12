@@ -21,8 +21,8 @@
 ```
 
 ## ** Free to download ** ##
-[Input](https://input.djr.com/)
-[JetBrains Mono](https://www.jetbrains.com/lp/mono/)
-[Monaspace](https://monaspace.githubnext.com/)
+- [Input](https://input.djr.com/)
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+- [Monaspace](https://monaspace.githubnext.com/)
 
 ### Happy Coding 🚀👨‍💻
